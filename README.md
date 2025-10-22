@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="AGIlogo" src="" />
+<img width="1024" height="1024" alt="AGIlogo" src="https://ibb.co/s9m973HL" />
 
 # The-AGI-Assistant 🚀
 
